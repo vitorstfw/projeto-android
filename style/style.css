@@ -39,10 +39,10 @@ content: '\00a0\1F517';
 
 header {
     background: linear-gradient(to top , #042814,#3e7054 ); 
-    padding: 10px 0;
+    padding: -10px 0;
     text-align: center;
     color: #ffffff;
-    min-height: 150px;
+    min-height: 130px;
     box-shadow: rgb(0, 0, 0) 0px 4px 12px;
 font-family: var(--fonte-destaque);
 }
