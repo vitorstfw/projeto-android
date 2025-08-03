@@ -110,9 +110,9 @@ main {
     border-bottom-right-radius: 10px;
 }   
 
-main h1{
+.titulo{
     color: #2a7532;
-    font-size: 2em;
+    font-size: 1.8em;
     margin-top: 0;
     font-family:var(--fonte-andoid);
     font-weight: normal;
