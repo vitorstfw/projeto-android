@@ -90,6 +90,13 @@ nav.menu a.link:hover {
     color: #27852e;
     text-decoration: underline;
 }
+.source{
+min-width: 490px; 
+max-width: 850px;
+
+}
+
+
 
 main {
     min-width: 300px;
